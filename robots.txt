@@ -1,0 +1,3 @@
+# Site de portfólio com pessoa e dados fictícios: não deve ser indexado.
+User-agent: *
+Disallow: /
